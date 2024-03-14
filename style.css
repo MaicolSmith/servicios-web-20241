@@ -2,6 +2,9 @@
     color: red;
     text-align: center;
 }
+body{
+    background-color: aqua;
+}
 .container {
  width: 450px;
  background-color: black;
